@@ -1,0 +1,107 @@
+
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+
+}
+h1{
+    font-size: 40px;
+    
+}
+
+h2{
+    font-size: 35px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    color: darkgray;   
+    text-align: justify;
+}
+
+.common-sec{
+    height: 500px;
+    margin-bottom: 15%;
+
+
+}
+.half-width{
+    width: 40%;
+    margin: 2%;
+    padding: 3%;
+    float: left;
+}
+
+.same-width-3{
+    width: 25%;
+    margin: 1%;
+    padding: 3%;
+    float: left;    
+}
+
+.one-width{
+
+}
+
+.font-hilight{
+    color: darkorange;
+    font-weight: 900;
+}
+
+.font-hilight-2{
+    color: red;
+    font-weight: 900;
+}
+
+.txt-center{
+    text-align: center;
+}
+
+.img-refine{
+    width: 80%;
+}
+
+.link-style{
+    font-weight: bold;
+    text-decoration: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+#box-text{
+    box-shadow: 10px 10px 20px white;    
+    height: 90%;
+    width: 60%;
+    border-radius: 25px;
+}
+
+#box-text-2{
+    box-shadow: 10px 10px 20px white;    
+    height: 90%;
+    width: 80%;
+    border-radius: 25px;
+}
+.box-2{
+    box-shadow: 10px 10px 20px lightgray;    
+    height: 75%;
+    border-radius: 25px;
+    
+}
+#img-small{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+    
